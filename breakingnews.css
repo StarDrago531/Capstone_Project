@@ -1,0 +1,19 @@
+#breakingdiv{
+    text-align: center;
+}
+
+h2{
+    color: rgb(88, 14, 14);
+}
+
+#breaking{
+    position: relative;
+    width: 45%;
+    margin-left: 27%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(117, 109, 228);
+}

@@ -1,0 +1,19 @@
+#localdiv{
+    text-align: center;
+}
+
+h2{
+    color: rgb(194, 44, 44);
+}
+
+#local{
+    position: relative;
+    width: 45%;
+    margin-left: 27%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+
+body{
+    background-color: ivory;
+}

@@ -1,0 +1,19 @@
+#coviddiv{
+    text-align: center;
+}
+
+h2{
+    color: rgb(88, 14, 14);
+}
+
+#covid{
+    position: relative;
+    width: 45%;
+    margin-left: 27%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(86, 199, 189);
+}
